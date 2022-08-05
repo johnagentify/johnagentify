@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Rust+developer+with+blockchain+experience+in+Ethereum+Polkadot substrate+Also+experienced+in+developing+Rest+APIs+using+Spring-boot.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Rust+developer+with+blockchain+experience.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
