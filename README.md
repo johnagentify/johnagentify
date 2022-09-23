@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Rust+developer+with+blockchain+experience.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Blockchain+developer+.++++++++++)](https://git.io/typing-svg)
 
   
 <h2 align="center">Hi there 👋, I'm Immanuel John!</h2>
