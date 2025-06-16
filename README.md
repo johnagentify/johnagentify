@@ -15,7 +15,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentify&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Immanuel-john&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnagentify&theme=neon-palenight&hide_border=true)
 
 
-![](https://komarev.com/ghpvc/?username=Immanuel-john)
+![](https://komarev.com/ghpvc/?username=johnagentify)
