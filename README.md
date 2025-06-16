@@ -8,12 +8,12 @@
  
 
 <h2>🏆 Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=Immanuel-john&column=9&theme=gruvbox&no-frame=true"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=johnagentify&column=9&theme=gruvbox&no-frame=true"/>
 
 ![Immanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnagentify&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agentify&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnagentify&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnagentify&theme=neon-palenight&hide_border=true)
 
